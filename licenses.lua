@@ -6,4 +6,5 @@ return {
     ['BLAQ-VENC-NTWF'] = {user_id = 1030765647162003486, hwid = 'None', username = 'dx6s'},
     ['BLAQ-XAZ3-ALMP'] = {user_id = 1220645650962714749, hwid = 'None', username = 'aimviewing.'},
     ['BLAQ-Q0WE-0UAS'] = {user_id = 1229518289185669142, hwid = 'None', username = 'dtbtree'},
+    ['BLAQ-CCVM-P46I'] = {user_id = 980512668521754624, hwid = 'None', username = 'stormmoka'},
 }
