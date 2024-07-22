@@ -3,4 +3,5 @@ return {
     ['BLAQ-PM94-IBXC'] = {user_id = 1210211190379388952, hwid = 'BLAQ-PM94-IBXC', username = 'scarsfromlastnight'},
     ['BLAQ-H3C3-581W'] = {user_id = 1167549408963985409, hwid = 'None', username = '8blaq'},
     ['BLAQ-2E4Z-TD3H'] = {user_id = 1139622774789382175, hwid = 'None', username = '2o9flako'},
+    ['BLAQ-VENC-NTWF'] = {user_id = 1030765647162003486, hwid = 'None', username = 'dx6s'},
 }
