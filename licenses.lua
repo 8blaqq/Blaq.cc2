@@ -40,7 +40,7 @@ return {
     ['BLAQ-YYQW-X093'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-C4NU-J20H'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-K9HL-0QQU'] = {user_id = None, hwid = 'None', username = ''},
-    ['BLAQ-3HAR-WN90'] = {user_id = None, hwid = 'None', username = ''},
+    ['BLAQ-3HAR-WN90'] = {user_id = 1245868302874447924, hwid = 'None', username = 'sioislegit'},
     ['BLAQ-XBM0-11UK'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-WILT-31BE'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-B9LH-ZN1J'] = {user_id = None, hwid = 'None', username = ''},
