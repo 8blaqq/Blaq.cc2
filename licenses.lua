@@ -1,6 +1,6 @@
 return {
     ['BLAQ-78UZ-YTW1'] = {user_id = 1149023627069620297, hwid = 'None', username = 'xaxaxaxaxaxaxaxaxxaxaxaxaxaxax'},
-    ['BLAQ-H3C3-581W'] = {user_id = 1167549408963985409, hwid = 'None', username = '8blaq'},
+    ['BLAQ-H3C3-581W'] = {user_id = 1167549408963985409, hwid = 'a1e9934c-85d3-4a86-a688-6e2ec5ac5bb6', username = '8blaq'},
     ['BLAQ-2E4Z-TD3H'] = {user_id = 1139622774789382175, hwid = 'None', username = '2o9flako'},
     ['BLAQ-VENC-NTWF'] = {user_id = 1030765647162003486, hwid = 'None', username = 'dx6s'},
     ['BLAQ-XAZ3-ALMP'] = {user_id = 1220645650962714749, hwid = 'None', username = 'aimviewing.'},
