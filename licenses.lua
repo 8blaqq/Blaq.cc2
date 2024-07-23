@@ -1,7 +1,7 @@
 return {
     ['BLAQ-78UZ-YTW1'] = {user_id = 1149023627069620297, hwid = '13c859fe-0a05-4545-9150-06dc21e2db24', username = 'xaxaxaxaxaxaxaxaxxaxaxaxaxaxax'},
     ['BLAQ-H3C3-581W'] = {user_id = 1167549408963985409, hwid = 'None', username = '8blaq'},
-    ['BLAQ-2E4Z-TD3H'] = {user_id = 1139622774789382175, hwid = '82644f98-28ee-420e-ae78-24f3bc253cdd', username = '2o9flako'},
+    ['BLAQ-2E4Z-TD3H'] = {user_id = 1139622774789382175, hwid = 'None', username = '2o9flako'},
     ['BLAQ-VENC-NTWF'] = {user_id = 1030765647162003486, hwid = 'None', username = 'dx6s'},
     ['BLAQ-XAZ3-ALMP'] = {user_id = 1220645650962714749, hwid = 'None', username = 'aimviewing.'},
     ['BLAQ-Q0WE-0UAS'] = {user_id = 1229518289185669142, hwid = 'None', username = 'dtbtree'},
