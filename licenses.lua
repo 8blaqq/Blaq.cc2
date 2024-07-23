@@ -10,7 +10,7 @@ return {
     ['BLAQ-8LFI-75CH'] = {user_id = 1146455701451980851, hwid = 'None', username = 'therealx_ora'},
     ['BLAQ-USRF-4K6T'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-RLOX-G1VM'] = {user_id = None, hwid = 'None', username = ''},
-    ['BLAQ-DJRQ-5XWW'] = {user_id = None, hwid = 'None', username = ''},
+    ['BLAQ-DJRQ-5XWW'] = {user_id = 1139527320596643901, hwid = 'None', username = '67r1'},
     ['BLAQ-55FX-WP7R'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-JITN-B1AI'] = {user_id = 1129611096815304774, hwid = 'None', username = 'fartboy979'},
 }
