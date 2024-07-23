@@ -16,7 +16,7 @@ return {
     ['BLAQ-YXLV-2E2C'] = {user_id = 1085057339364745257, hwid = 'None', username = '0ssxxz'},
     ['BLAQ-F2WH-AJV2'] = {user_id = 1151290378981478551, hwid = 'None', username = 'nazzywazzzy'},
     ['BLAQ-T5PD-3XGK'] = {user_id = 752998790939672747, hwid = '4924429B-4A88-4544-ABBA-1D8058A44C45', username = '1xh3'},
-    ['BLAQ-0G4C-6HCC'] = {user_id = 1210211190379388952, hwid = 'dc496a20-f384-4bef-8584-7c552a2fd564 dc496a20-f384-4bef-8584-7c552a2fd564 dc496a20-f384-4bef-8584-7c552a2fd564', username = 'scarsfromlastnight'},
+    ['BLAQ-0G4C-6HCC'] = {user_id = 1210211190379388952, hwid = 'None', username = 'scarsfromlastnight'},
     ['BLAQ-K5I1-3W5T'] = {user_id = 1226664726403088404, hwid = 'None', username = 'dragodragodragodrago'},
     ['BLAQ-RGNN-A4YU'] = {user_id = 794619423616532561, hwid = 'None', username = 'ftsf'},
     ['BLAQ-JRBY-YJNI'] = {user_id = 1144407963646304308, hwid = 'c3953a2b-32ae-49aa-92c5-76528046a0b6', username = 'unknownnalocker'},
