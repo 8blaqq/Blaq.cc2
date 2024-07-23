@@ -28,4 +28,5 @@ return {
     ['BLAQ-061U-2C1O'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-DSHK-H8PR'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-QO05-EDXO'] = {user_id = None, hwid = 'None', username = ''},
+    ['BLAQ-LDQ5-UN17'] = {user_id = 788780177412194344, hwid = 'None', username = 'juubladi'},
 }
