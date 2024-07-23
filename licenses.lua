@@ -1,5 +1,4 @@
 return {
-    ['BLAQ-78UZ-YTW1'] = {user_id = 1149023627069620297, hwid = '13c859fe-0a05-4545-9150-06dc21e2db24', username = 'xaxaxaxaxaxaxaxaxxaxaxaxaxaxax'},
     ['BLAQ-VENC-NTWF'] = {user_id = 1030765647162003486, hwid = 'None', username = 'dx6s'},
     ['BLAQ-XAZ3-ALMP'] = {user_id = 1220645650962714749, hwid = 'None', username = 'aimviewing.'},
     ['BLAQ-CCVM-P46I'] = {user_id = 980512668521754624, hwid = 'setclipboard(game:GetService("RbxAnalyticsService"):GetClientId())', username = 'stormmoka'},
