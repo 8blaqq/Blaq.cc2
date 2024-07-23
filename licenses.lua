@@ -8,7 +8,7 @@ return {
     ['BLAQ-Q0WE-0UAS'] = {user_id = 1229518289185669142, hwid = 'None', username = 'dtbtree'},
     ['BLAQ-CCVM-P46I'] = {user_id = 980512668521754624, hwid = 'None', username = 'stormmoka'},
     ['BLAQ-8LFI-75CH'] = {user_id = 1146455701451980851, hwid = 'None', username = 'therealx_ora'},
-    ['BLAQ-USRF-4K6T'] = {user_id = None, hwid = 'None', username = ''},
+    ['BLAQ-USRF-4K6T'] = {user_id = 1172641598211895371, hwid = 'None', username = 'dw_itsenzo'},
     ['BLAQ-RLOX-G1VM'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-DJRQ-5XWW'] = {user_id = 1139527320596643901, hwid = 'None', username = '67r1'},
     ['BLAQ-55FX-WP7R'] = {user_id = None, hwid = 'None', username = ''},
