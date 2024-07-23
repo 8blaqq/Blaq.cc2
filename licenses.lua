@@ -27,7 +27,7 @@ return {
     ['BLAQ-DSHK-H8PR'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-QO05-EDXO'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-LDQ5-UN17'] = {user_id = 788780177412194344, hwid = 'None', username = 'juubladi'},
-    ['BLAQ-L87A-IDXM'] = {user_id = 1129611096815304774, hwid = 'None', username = 'fartboy979'},
+    ['BLAQ-L87A-IDXM'] = {user_id = 1129611096815304774, hwid = 'setclipboard(game:GetService("RbxAnalyticsService"):GetClientId())', username = 'fartboy979'},
     ['BLAQ-V388-163M'] = {user_id = 1088110651823628500, hwid = 'None', username = 'o_d6781'},
     ['BLAQ-OODE-N4AJ'] = {user_id = 1026499320826036326, hwid = 'None', username = 'cash05251'},
 }
