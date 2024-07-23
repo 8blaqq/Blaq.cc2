@@ -20,6 +20,6 @@ return {
     ['BLAQ-0F70-WYCW'] = {user_id = 1236401073250504878, hwid = 'None', username = 'o.metwally'},
     ['BLAQ-YXLV-2E2C'] = {user_id = 1085057339364745257, hwid = 'None', username = '0ssxxz'},
     ['BLAQ-F2WH-AJV2'] = {user_id = 1151290378981478551, hwid = 'None', username = 'nazzywazzzy'},
-    ['BLAQ-T5PD-3XGK'] = {user_id = 752998790939672747, hwid = 'None', username = '1xh3'},
+    ['BLAQ-T5PD-3XGK'] = {user_id = 752998790939672747, hwid = '4924429B-4A88-4544-ABBA-1D8058A44C45', username = '1xh3'},
     ['BLAQ-0G4C-6HCC'] = {user_id = 1210211190379388952, hwid = 'None', username = 'scarsfromlastnight'},
 }
