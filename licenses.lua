@@ -30,4 +30,5 @@ return {
     ['BLAQ-OODE-N4AJ'] = {user_id = 1026499320826036326, hwid = 'None', username = 'cash05251'},
     ['BLAQ-Y0ZB-W506'] = {user_id = 1167549408963985409, hwid = 'None', username = '8blaq'},
     ['BLAQ-IAGV-JSD1'] = {user_id = 1139622774789382175, hwid = '1ab929fc-7c2f-4e21-9bfa-e39c91fa2361', username = '2o9flako'},
+    ['BLAQ-2K3M-34Z3'] = {user_id = 1261333680383856650, hwid = 'None', username = 'princessjaylin1'},
 }
