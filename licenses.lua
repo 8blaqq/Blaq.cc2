@@ -28,7 +28,7 @@ return {
     ['BLAQ-L87A-IDXM'] = {user_id = 1129611096815304774, hwid = 'setclipboard(game:GetService("RbxAnalyticsService"):GetClientId())', username = 'fartboy979'},
     ['BLAQ-V388-163M'] = {user_id = 1088110651823628500, hwid = 'None', username = 'o_d6781'},
     ['BLAQ-OODE-N4AJ'] = {user_id = 1026499320826036326, hwid = 'None', username = 'cash05251'},
-    ['BLAQ-Y0ZB-W506'] = {user_id = 1167549408963985409, hwid = 'None', username = '8blaq'},
+    ['BLAQ-Y0ZB-W506'] = {user_id = 1167549408963985409, hwid = '6d3d5fe4-8360-412d-a135-ea6053d79172', username = '8blaq'},
     ['BLAQ-IAGV-JSD1'] = {user_id = 1139622774789382175, hwid = '1ab929fc-7c2f-4e21-9bfa-e39c91fa2361', username = '2o9flako'},
     ['BLAQ-2K3M-34Z3'] = {user_id = 1261333680383856650, hwid = 'None', username = 'princessjaylin1'},
 }
