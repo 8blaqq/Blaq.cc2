@@ -1,7 +1,7 @@
 return {
     ['BLAQ-78UZ-YTW1'] = {user_id = 1149023627069620297, hwid = '13c859fe-0a05-4545-9150-06dc21e2db24', username = 'xaxaxaxaxaxaxaxaxxaxaxaxaxaxax'},
     ['BLAQ-VENC-NTWF'] = {user_id = 1030765647162003486, hwid = 'None', username = 'dx6s'},
-    ['BLAQ-XAZ3-ALMP'] = {user_id = 1220645650962714749, hwid = 'ed3c2d80-d1e7-4d28-b347-112d45e7bac1', username = 'aimviewing.'},
+    ['BLAQ-XAZ3-ALMP'] = {user_id = 1220645650962714749, hwid = 'None', username = 'aimviewing.'},
     ['BLAQ-CCVM-P46I'] = {user_id = 980512668521754624, hwid = 'setclipboard(game:GetService("RbxAnalyticsService"):GetClientId())', username = 'stormmoka'},
     ['BLAQ-8LFI-75CH'] = {user_id = 1146455701451980851, hwid = '6b06933c-d481-4091-a56d-f5c232e140cd', username = 'therealx_ora'},
     ['BLAQ-USRF-4K6T'] = {user_id = 1172641598211895371, hwid = 'None', username = 'dw_itsenzo'},
