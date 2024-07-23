@@ -140,5 +140,5 @@ return {
     ['BLAQ-JPMM-TD67'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-J06E-QYLL'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-3ON2-7XFL'] = {user_id = None, hwid = 'None', username = ''},
-    ['BLAQ-AI1O-4NK4'] = {user_id = 1229518289185669142, hwid = 'None', username = 'dtbtree'},
+    ['BLAQ-AI1O-4NK4'] = {user_id = 1229518289185669142, hwid = 'b2c4c5e3-ac64-4e97-8608-e960eb2af8fb', username = 'dtbtree'},
 }
