@@ -26,7 +26,7 @@ return {
     ['BLAQ-Y0ZB-W506'] = {user_id = 1167549408963985409, hwid = '6d3d5fe4-8360-412d-a135-ea6053d79172', username = '8blaq'},
     ['BLAQ-2K3M-34Z3'] = {user_id = 1261333680383856650, hwid = 'None', username = 'princessjaylin1'},
     ['BLAQ-NV4B-9UVJ'] = {user_id = None, hwid = 'None', username = ''},
-    ['BLAQ-6ZRV-9SMT'] = {user_id = None, hwid = 'None', username = ''},
+    ['BLAQ-6ZRV-9SMT'] = {user_id = 1149023627069620297, hwid = 'None', username = 'xaxaxaxaxaxaxaxaxxaxaxaxaxaxax'},
     ['BLAQ-FYK0-R1FV'] = {user_id = 1018974897189421167, hwid = 'None', username = 'alostdev'},
     ['BLAQ-AVUI-0QST'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-URKE-VJJP'] = {user_id = None, hwid = 'None', username = ''},
