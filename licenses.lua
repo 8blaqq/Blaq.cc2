@@ -141,4 +141,5 @@ return {
     ['BLAQ-7SXH-BPHU'] = {user_id = 726618624147849226, hwid = '67259099-ca35-4d23-8f66-ec88517c58fd', username = 'jesuslover14'},
     ['BLAQ-QY0A-XIGT'] = {user_id = 1220645650962714749, hwid = 'None', username = 'aimviewing.'},
     ['BLAQ-H7WQ-TD1D'] = {user_id = 1139622774789382175, hwid = '1ab929fc-7c2f-4e21-9bfa-e39c91fa2361', username = '2o9flako'},
+    ['BLAQ-RXOF-YO97'] = {user_id = 1085057339364745257, hwid = 'None', username = '0ssxxz'},
 }
