@@ -31,7 +31,7 @@ return {
     ['BLAQ-AVUI-0QST'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-4RDM-RFQO'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-URKE-VJJP'] = {user_id = None, hwid = 'None', username = ''},
-    ['BLAQ-YYQW-X093'] = {user_id = None, hwid = 'None', username = ''},
+    ['BLAQ-YYQW-X093'] = {user_id = 479002588189163520, hwid = 'None', username = 'humanoidrootpart'},
     ['BLAQ-C4NU-J20H'] = {user_id = 1001555369023242390, hwid = 'None', username = 'voicemeter'},
     ['BLAQ-K9HL-0QQU'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-3HAR-WN90'] = {user_id = 1245868302874447924, hwid = 'None', username = 'sioislegit'},
