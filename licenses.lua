@@ -27,7 +27,7 @@ return {
     ['BLAQ-2K3M-34Z3'] = {user_id = 1261333680383856650, hwid = 'None', username = 'princessjaylin1'},
     ['BLAQ-NV4B-9UVJ'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-6ZRV-9SMT'] = {user_id = None, hwid = 'None', username = ''},
-    ['BLAQ-FYK0-R1FV'] = {user_id = None, hwid = 'None', username = ''},
+    ['BLAQ-FYK0-R1FV'] = {user_id = 1018974897189421167, hwid = 'None', username = 'alostdev'},
     ['BLAQ-AVUI-0QST'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-URKE-VJJP'] = {user_id = None, hwid = 'None', username = ''},
     ['BLAQ-YYQW-X093'] = {user_id = 479002588189163520, hwid = 'None', username = 'humanoidrootpart'},
